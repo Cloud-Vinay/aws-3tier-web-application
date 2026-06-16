@@ -30,7 +30,7 @@ This project demonstrates the deployment of a 3-Tier Architecture on AWS using a
 
 ### Subnets
 
-![Subnets](Subnets.png)
+![Subnets](Subnet.png)
 
 ### Route Table
 
