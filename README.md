@@ -56,6 +56,18 @@ This project demonstrates the deployment of a 3-Tier Architecture on AWS using a
 
 ![Custom Web Page](custom-webpage.png)
 
+## Database Layer
+
+- Created Amazon RDS MySQL Database
+- Configured Security Groups
+- Connected EC2 to RDS
+- Created portfolio_db database
+
+### Database Connectivity
+
+![Database Connection](database-connectivity.png)
+
+
 ## Skills Demonstrated
 
 - AWS Networking
