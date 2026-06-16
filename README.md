@@ -52,6 +52,10 @@ This project demonstrates the deployment of a 3-Tier Architecture on AWS using a
 
 ![Apache](apache-page.png)
 
+### Custom Web Application
+
+![Custom Web Page](custom-webpage.png)
+
 ## Skills Demonstrated
 
 - AWS Networking
