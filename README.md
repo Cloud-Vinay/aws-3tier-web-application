@@ -67,6 +67,21 @@ This project demonstrates the deployment of a 3-Tier Architecture on AWS using a
 
 ![Database Connection](database-connectivity.png)
 
+## Dynamic Web Application
+
+- Installed PHP on Amazon EC2
+- Connected EC2 with Amazon RDS MySQL
+- Created visitors table
+- Stored form data in MySQL database
+
+### Form Submission
+
+![Form](form-page.png)
+
+### Database Records
+
+![Database](database-records.png)
+
 
 ## Skills Demonstrated
 
@@ -75,3 +90,6 @@ This project demonstrates the deployment of a 3-Tier Architecture on AWS using a
 - Linux Administration
 - Apache Web Server Deployment
 - Security Group Configuration
+- Amazon RDS
+- MySQL Database Management
+- PHP Web Development
