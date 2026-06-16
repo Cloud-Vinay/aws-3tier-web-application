@@ -1,27 +1,17 @@
-# aws-3tier-web-application
+# AWS 3-Tier Web Application
 
 ## Project Overview
 
-This project demonstrates the deployment of a 3-Tier Architecture on AWS. The infrastructure is built using a custom VPC with public and private subnets. A web server is hosted on Amazon EC2 and configured with Apache.
+This project demonstrates the deployment of a 3-Tier Architecture on AWS using a custom VPC and EC2 web server.
 
 ## AWS Services Used
 
 - Amazon VPC
 - Amazon EC2
-- Security Groups
 - Internet Gateway
 - Route Tables
+- Security Groups
 - Apache Web Server
-
-## Architecture
-
-User
-↓
-EC2 Web Server
-↓
-Application Layer
-↓
-RDS Database
 
 ## Completed Tasks
 
@@ -34,15 +24,38 @@ RDS Database
 
 ## Screenshots
 
-- VPC Configuration
-- Subnet Configuration
-- EC2 Instance
-- Apache Web Server Page
+### VPC Configuration
+
+![VPC](VPC.png)
+
+### Subnets
+
+![Subnets](Subnets.png)
+
+### Route Table
+
+![RouteTable](RouteTable.png)
+
+### Security Group
+
+![Security Group](SG.png)
+
+### Internet gateway
+
+![Internet Gateway](IGW.png)
+
+### EC2 Instance
+
+![EC2](EC2.png)
+
+### Apache Web Server
+
+![Apache](apache-page.png)
 
 ## Skills Demonstrated
 
 - AWS Networking
 - EC2 Administration
 - Linux Administration
-- Web Server Deployment
+- Apache Web Server Deployment
 - Security Group Configuration
